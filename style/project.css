@@ -1,0 +1,76 @@
+.landingImage {
+position:relative;
+text-align: center;
+color: white;
+margin-top: 0px;
+height: 600px;
+
+}
+
+.landingText {
+    text-align: center;
+    position: absolute;
+    margin: auto;
+    top: 50%; left: 0; bottom: 0; right: 0;
+	font-family: 'Karla', sans-serif;
+	/*top: 20%;
+    left: 10%;*/
+    font-size: 8rem;
+    color: white;
+}
+
+/*.carousel-mar {*/
+/*    padding: 0;*/
+/*    height: 900px;*/
+/*}*/
+
+
+
+.treasureText {
+    font-size: 2rem;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.overlay-on-carousel {
+    position: absolute;
+    left: 0;
+    z-index: 500;
+    background-color: rgba(252,252,252,0.6);
+    padding-top: 350px;
+}
+
+#aboutCocktails {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.card {
+    padding: 20px 20px 20px 20px;
+    padding-bottom: 40px;
+    background-color: #EFEBEA;
+    opacity: .6;
+    box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 1.0), 0 6px 60px 0 rgba(0, 0, 0, 0.50);
+}
+
+.cardImage {
+    max-width: 300px;
+}
+
+.subHead {
+    text-align: center;
+}
+
+body {
+   font-family: 'Gloria Hallelujah', cursive;
+}
+
+.riddle {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 2rem;
+}
